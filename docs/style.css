@@ -65,6 +65,11 @@ div#app:empty:before {
 	z-index: 999999
 }
 
+.opacity-width-0 {
+	opacity: 0; 
+	width: 0%;
+}
+
 .search .search-keyword,
 .search a:hover {
 	color: var(--accent)
