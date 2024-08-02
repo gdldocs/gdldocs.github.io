@@ -1,3 +1,5 @@
+# GoldenDog Linux Documentation Style Guide
+
 To maintain a consistent language and style across our documentation, we use these guidelines. We value your content over strict adherence to formatting rules, so don't worry about mastering the entire style guide before you contribute. However, expect that other contributors might edit your work to match this guide. When you submit a content pull request, reviewers may refer you to these guidelines.
 
 ## Consider the Three Cs of Writing
@@ -28,7 +30,8 @@ The three Cs of good writing are writing clearly, concisely, and consistently.
 - **Provide a Descriptive Introduction:**
   - Ensure the opening paragraph(s) before the first heading summarizes the information covered and what readers can achieve. This helps readers determine if the page is relevant to them.
 
-- **Headings:** Use headings to organize content, starting with the most important information.
+- **Headings:** Use headings to organize content, starting with the most important information. Use [this site](https://capitalizemytitle.com/style/APA/) to capitalize headings using APA style.
+
   - **Incorrect:** `<h3>Creating a File</h3>`
   - **Correct:** `<h1>Creating a File</h1>`
 
